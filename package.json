@@ -1,0 +1,30 @@
+{
+  "name": "clearjunction",
+  "version": "1.0.0",
+  "description": "SDK for integrating with ClearJunction API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesobreira/clearjunction-js.git"
+  },
+  "keywords": [
+    "baas",
+    "bank",
+    "service",
+    "account",
+    "money",
+    "funds"
+  ],
+  "author": "Jefrey S. Santos <jefrey.santos@capitual.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesobreira/clearjunction-js/issues"
+  },
+  "homepage": "https://github.com/jesobreira/clearjunction-js#readme",
+  "dependencies": {
+    "got": "^11.3.0"
+  }
+}
