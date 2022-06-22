@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/jesobreira/clearjunction-js#readme",
   "dependencies": {
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   }
 }
